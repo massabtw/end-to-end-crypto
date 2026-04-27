@@ -1,10 +1,12 @@
 from fastapi import FastAPI
 from datetime import datetime
 import json
+from pathlib import Path
 app = FastAPI()
+DB_PATH = Path(__file__).resolve().parent.parent / "data" / "database.json"
 
 def buscar_dados(crypto=None):
-    with open('database.json', 'r') as f:
+    with open(DB_PATH, 'r', encoding="utf-8") as f:
         data = json.load(f)
         filtrados = []
         for registro in data:

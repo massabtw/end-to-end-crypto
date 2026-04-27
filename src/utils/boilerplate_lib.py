@@ -87,7 +87,7 @@ def resolve_lib(lib_str):
         raise TypeError("Não aceitamos outros valores fora 'String'.")
 
 if __name__ == "__main__":
-    inspection(lib_str="selenium.webdriver", which="All", doc="link")
+    inspection(which="c", doc="link")
 
     """
     lib_str: Colocar a Library desejada.
