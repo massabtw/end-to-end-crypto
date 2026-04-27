@@ -1,0 +1,62 @@
+[
+  {
+    "crypto": "bitcoin",
+    "price - usd": 79242,
+    "currency": "usd",
+    "timestamp": "2026-04-27 00:25:17"
+  },
+  {
+    "crypto": "cardano",
+    "price - usd": 0.255446,
+    "currency": "usd",
+    "timestamp": "2026-04-27 00:25:17"
+  },
+  {
+    "crypto": "ethereum",
+    "price - usd": 2397.84,
+    "currency": "usd",
+    "timestamp": "2026-04-27 00:25:17"
+  },
+  {
+    "crypto": "ripple",
+    "price - usd": 1.44,
+    "currency": "usd",
+    "timestamp": "2026-04-27 00:25:17"
+  },
+  {
+    "crypto": "solana",
+    "price - usd": 87.99,
+    "currency": "usd",
+    "timestamp": "2026-04-27 00:25:17"
+  },
+  {
+    "crypto": "bitcoin",
+    "price - usd": 79264,
+    "currency": "usd",
+    "timestamp": "2026-04-27 00:36:03"
+  },
+  {
+    "crypto": "cardano",
+    "price - usd": 0.255444,
+    "currency": "usd",
+    "timestamp": "2026-04-27 00:36:03"
+  },
+  {
+    "crypto": "ethereum",
+    "price - usd": 2397.56,
+    "currency": "usd",
+    "timestamp": "2026-04-27 00:36:03"
+  },
+  {
+    "crypto": "ripple",
+    "price - usd": 1.44,
+    "currency": "usd",
+    "timestamp": "2026-04-27 00:36:03"
+  },
+  {
+    "crypto": "solana",
+    "price - usd": 87.95,
+    "currency": "usd",
+    "timestamp": "2026-04-27 00:36:03"
+  }
+]

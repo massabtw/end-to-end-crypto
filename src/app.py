@@ -2,7 +2,7 @@ import requests
 import streamlit as st
 from datetime import datetime, timedelta
 
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://end-to-end-crypto-1.onrender.com"
 CRYPTO_OPTIONS = ["bitcoin", "ethereum", "solana", "cardano", "ripple"]
 TIME_FILTERS = {
     "Ultima 1 hora": (timedelta(hours=1), timedelta(hours=0)),
